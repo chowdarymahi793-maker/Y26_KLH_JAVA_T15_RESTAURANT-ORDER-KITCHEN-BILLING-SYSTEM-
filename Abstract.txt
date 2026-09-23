@@ -1,0 +1,46 @@
+Abstract 
+Restaurant Order, Kitchen & Billing System 
+
+The Restaurant Order, Kitchen & Billing System is a software-based application developed to simplify and manage the major activities involved in restaurant operations. The system provides an organized platform for handling customer orders, communicating order details to the kitchen, tracking food preparation, and generating bills accurately. It reduces the need for manual record-keeping and helps minimize errors in order processing and billing. 
+
+The system allows restaurant staff to view the available menu items, select items according to customer requirements, enter quantities, and place orders efficiently. Once an order is placed, the details can be made available to the kitchen staff, allowing them to prepare the required food items in an organized manner. The kitchen can update the status of each order, such as pending, preparing, or completed. This helps serving staff monitor orders and provide timely service to customers. 
+
+The billing module calculates the cost of ordered items based on their prices and quantities. It can also include applicable taxes, discounts, and the final payable amount. The system maintains order and billing information, making it easier to retrieve records when required. 
+
+Overall, the Restaurant Order, Kitchen & Billing System improves operational efficiency, reduces communication gaps, saves time, and increases billing accuracy. By integrating ordering, kitchen management, and billing into one system, it provides a convenient and reliable solution for modern restaurants. The system can also be enhanced in the future with features such as online ordering, digital payments, customer management, inventory tracking, and sales reports. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Roadmap – Restaurant Order, Kitchen & Billing System 
+
+1. Requirement Analysis 
+→ Identify system needs and main features. 
+
+2. System Design 
+→ Design classes, data, and program flow. 
+
+3. Menu Management 
+→ Add, view, search, and manage food items. 
+
+4. Order Management 
+→ Enter customer details and place orders. 
+
+5. Kitchen Management 
+→ Track orders: Pending → Preparing → Ready → Served. 
+
+6. Billing 
+→ Calculate price, quantity, tax, discount, and final bill. 
+
+7. Testing 
+→ Test all features and fix errors. 
+
+8. Future Enhancements 
+→ Add online ordering, digital payments, inventory, login, and sales reports. 
+
+ 
